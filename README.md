@@ -17,8 +17,5 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=totofile&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=totofile&icon=0&color=0)](https://visitcount.itsvg.in)
