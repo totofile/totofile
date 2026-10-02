@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on developping and implementing  cloud solutions <br>🌱 I’m currently a student learning at ESGI College <br>💬 Ask me about <br>⚡ Fun fact : we have compagny with friends on free time itskody.fr
+🔭 Working on developping and implementing  cloud solutions <br>⚡ Fun fact : compagny with friends on free time itskody.fr
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/toplu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E2%98%81%EF%B8%8Fth%C3%A9ophile-faugeras-cultr%C3%A9ra-209a5a254/) 
